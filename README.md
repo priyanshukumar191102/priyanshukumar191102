@@ -43,6 +43,7 @@ An end-to-end analytics project focused on analysing customer purchasing behavio
 ### Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-960372221/
+Email: priyanshu.kumar191102@gmail.com
 
 
 <!--
